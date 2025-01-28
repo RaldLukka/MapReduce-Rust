@@ -1,5 +1,9 @@
 # MapReduce 的 Rust 实现
 
+## 简要说明
+
+Rust 版本的 Mapreduce，分为两个部分，mr 是 mapreduce 的实现。mr_app 是一个基于 mr 的具体应用：word count。
+
 ## 过程记录
 
 ### rpc 的基本调用流程
